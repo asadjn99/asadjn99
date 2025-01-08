@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://behance.com/asadjn99">Behance</a> -
-  <a href="https://www.linkedin.com/in/asadjn99/">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/asadjn99/" target="_blank">LinkedIn</a> - 
   <a href="https://x.com/asadjn99">Twitter</a> -
  
   
