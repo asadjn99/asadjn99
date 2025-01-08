@@ -1,6 +1,5 @@
 <h1 align="center"> Hi there, My name is <a href="https://www.linkedin.com/in/asadjn99/">Asad Ullah. I am Web Developer</a> </h1>
 
-<!--- Adding Header Elements -->
 <p align="center">
   <a href="https://behance.com/asadjn99">Behance</a> -
   <a href="https://www.linkedin.com/in/asadjn99/">LinkedIn</a> - 
