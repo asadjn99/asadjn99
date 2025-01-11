@@ -1,34 +1,18 @@
-<h1 align="center"> Hi there, My name is <a href="https://www.linkedin.com/in/asadjn99/">Asad Ullah. I am Web Developer</a> </h1>
+<h1 align="center" style="color:#FFA500;"> Hi there, My name is <a href="https://www.linkedin.com/in/asadjn99/">Asad Ullah. I am Web Developer </a> </h1>
 
-<p align="center">
-  <a href="https://behance.com/asadjn99">Behance</a> -
-  <a href="https://www.linkedin.com/in/asadjn99/" target="_blank">LinkedIn</a> - 
-  <a href="https://x.com/asadjn99">Twitter</a> -
- 
-  
-  <a href="mailto:asad.jn99@gmail.com">Contact me.</a> 
+<div align="center">
+  <img src="https://github.com/asadjn99/banoqabil-html/blob/main/welcomegithubdp.png" style="max-width: 100%;" alt="Welcome to my Github Profile text" />
+ <br>
+
+</div>
+  <a href="mailto:asad.jn99@gmail.com">mail me</a>
 </p>
 
 -----------------------------------------------------------
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-✨ Web Developer  <br>
-📫 How to reach me: asadjn99@gmail.com
-
-💬 Ask me about Web Development.<br>
-<!--- Adding Tech Stack open Section -->
-
-
-
- 
-
-
 🕑︎ Time Zone: Asia/Karachi
 
    </details> 
-
-
-
-
 
 </p>
 
